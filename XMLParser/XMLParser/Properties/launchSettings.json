@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XMLParser": {
+      "commandName": "Project",
+      "commandLineArgs": "testing dev"
+    }
+  }
+}

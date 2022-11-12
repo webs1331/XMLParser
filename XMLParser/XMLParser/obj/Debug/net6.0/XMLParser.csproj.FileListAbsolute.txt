@@ -1,0 +1,17 @@
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\bin\Debug\net6.0\XMLParser.exe
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\bin\Debug\net6.0\XMLParser.deps.json
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\bin\Debug\net6.0\XMLParser.runtimeconfig.json
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\bin\Debug\net6.0\XMLParser.dll
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\bin\Debug\net6.0\XMLParser.pdb
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\obj\Debug\net6.0\XMLParser.csproj.AssemblyReference.cache
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\obj\Debug\net6.0\XMLParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\obj\Debug\net6.0\XMLParser.AssemblyInfoInputs.cache
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\obj\Debug\net6.0\XMLParser.AssemblyInfo.cs
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\obj\Debug\net6.0\XMLParser.csproj.CoreCompileInputs.cache
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\obj\Debug\net6.0\XMLParser.csproj.CopyComplete
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\obj\Debug\net6.0\XMLParser.dll
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\obj\Debug\net6.0\refint\XMLParser.dll
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\obj\Debug\net6.0\XMLParser.pdb
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\obj\Debug\net6.0\XMLParser.genruntimeconfig.cache
+C:\Users\cqb13\source\repos\XMLParser\XMLParser\obj\Debug\net6.0\ref\XMLParser.dll
